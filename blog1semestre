@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt_BR">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="css/index.css">
+	<title>HOMEL</title>
+</head>
+<body>
+	<section class="form1">
+	<header>
+		<img class="logo" src="imagens/banner.jpg" alt="logotipo periotto soluções web">
+	</header>
+			<nav>
+				<ul>
+	        <li><a href="index.html" >Inicio</a></li>
+	        <li class="dropdown">
+    			<a href="javascript:void(0)" class="dropbtn">Materias</a>
+    			<div class="dropdown-content">
+			      <a href="algoritimos.html">Algorítimos</a>
+			      <a href="bases-of-net.html">Bases da Internet</a>
+			      <a href="design.html">Design Digital</a>
+			      <a href="matematica-elementar.html">Matemática Elementar</a>
+			      <a href="padroes.html">Padrões de Projeto</a>
+			      <a href="producao-texto.html">Produção de Texto</a>
+			      <a href="ingles.html">Inglês</a>
+    			</div>
+  			</li>
+  			<li><a href="http://www.fatecjales.edu.br">Fatec</a></li>
+	        <li><a href="sobre.html">Sobre</a></li>
+	        <li><a href="contato.html">Contato</a></li>
+        </ul>
+			</nav>
+		<br/><br/><br/>
+	
+	<article>
+		<h1> Bem vindo</h1>
+		<p><strong>Olá pessoal primeiramente queria agradecer a presença de vocês, meu nome é Feliphe Periotto, sou estudante de Sistemas para Internet na FATEC de Jales. </p>
+		<p>Aqui neste blog voce vai encontrar informações sobre as materias e projetos desenvolvidos ao longo do 1º-semestre do curso,espero que gostem.</p></strong>
+		
+	</article>
+	<aside>
+		<img id="img1" src="imagens/imginicio.png" alt="imagem aleatoria">
+		</aside>
+	<footer>
+			<p>Desenvolvido por Feliphe Periotto 2017,todos os direitos reservados.</p>
+		</footer>
+	</section>
+</body>
+</html>
